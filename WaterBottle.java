@@ -1,6 +1,3 @@
-// Radhika Agrawal
-// HW 6 - CS 270
-
 import java.util.*;
 
 public class WaterBottle{
